@@ -6,24 +6,20 @@ Sistema completo de cadastro, login e gerenciamento de estoque de produtos, dese
 
 ## 📁 Estrutura do Projeto
 
-├── src
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── database/
-│ ├── .env
-│ └── server.ts
-├── public
-│ ├── css/
-│ ├── js/
-│ ├── img/
-│ ├── cadastro.html
-│ ├── login.html
-│ └── home.html
-
-yaml
-Copiar
-Editar
+- ├── src
+- │ ├── controllers/
+- │ ├── models/
+- │ ├── routes/
+- │ ├── database/
+- │ ├── .env
+- │ └── server.ts
+- ├── public
+- │ ├── css/
+- │ ├── js/
+- │ ├── img/
+- │ ├── cadastro.html
+- │ ├── login.html
+- │ └── home.html
 
 ---
 
